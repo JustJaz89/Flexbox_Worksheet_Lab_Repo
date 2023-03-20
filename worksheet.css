@@ -12,7 +12,8 @@
 
 /* Number Three */
 .container-3 {
-
+    display: flex;
+    align-items: center;
 }
 
 /* Number Four */
