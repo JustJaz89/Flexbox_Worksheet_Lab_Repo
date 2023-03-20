@@ -77,12 +77,14 @@
 
 /* Number Twelve */
 .container-12 {
-
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .nerf-12 {
     background-color: blue;
-    
+    align-self: flex-end;
 }
 
 /* Number Thirteen */
