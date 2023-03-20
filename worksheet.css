@@ -32,7 +32,9 @@
 
 /* Number Six */
 .container-6 {
-
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 /* Number Seven */
