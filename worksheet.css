@@ -89,12 +89,14 @@
 
 /* Number Thirteen */
 .container-13 {
-
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row-reverse;
 }
 
 .nerf-13 {
     background-color: blue;
-
 }
 
 /* Number Fourteen */
