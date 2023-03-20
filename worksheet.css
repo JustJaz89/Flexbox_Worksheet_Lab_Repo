@@ -33,12 +33,13 @@
 /* Number Six */
 .container-6 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
 }
 
 /* Number Seven */
 .container-7 {
+    display: flex;
 
 }
 
