@@ -46,7 +46,9 @@
 
 /* Number Eight */
 .container-8 {
-
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 /* Number Nine */
